@@ -43,7 +43,7 @@
     "last_opened_file_path": "D:/GB_Учеба/JAVA/Exceptions_in_programming_and_their_handling"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.task02.Printer">
+  <component name="RunManager" selected="Application.task03.Printer">
     <configuration name="Printer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Printer" />
       <module name="lesson01" />
@@ -64,8 +64,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="task03.Printer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task03.Printer" />
+      <module name="lesson01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.task03.Printer" />
         <item itemvalue="Application.task02.Printer" />
         <item itemvalue="Application.Printer" />
       </list>
