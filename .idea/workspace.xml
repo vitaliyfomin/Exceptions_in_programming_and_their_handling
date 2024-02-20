@@ -35,6 +35,7 @@
   "keyToString": {
     "Application.Printer.executor": "Run",
     "Application.task02.Printer.executor": "Run",
+    "Application.task03.Printer.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
