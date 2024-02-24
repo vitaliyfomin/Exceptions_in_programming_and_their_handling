@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3635166-0b44-418c-8cea-98e3fee64611" name="Changes" comment="" />
+    <list default="true" id="a3635166-0b44-418c-8cea-98e3fee64611" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/lesson02/src/task04/Expr.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson02/src/task04/Expr.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +61,20 @@
       <recent name="C:\JAVA\exceptions_in_programming_and_their_handling\lesson02\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.task03.Printer (1)">
+  <component name="RunManager" selected="Application.Printer">
+    <configuration name="Printer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task04.Printer" />
+      <module name="lesson02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="task01.Printer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task01.Printer" />
       <module name="lesson02" />
@@ -76,19 +91,6 @@
     <configuration name="task02.Printer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task02.Printer" />
       <module name="lesson02" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="task02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="task02.Printer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task02.Printer" />
-      <module name="lesson01" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="task02.*" />
@@ -127,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Printer" />
         <item itemvalue="Application.task03.Printer (1)" />
         <item itemvalue="Application.task02.Printer (1)" />
         <item itemvalue="Application.task01.Printer" />
         <item itemvalue="Application.task03.Printer" />
-        <item itemvalue="Application.task02.Printer" />
       </list>
     </recent_temporary>
   </component>
