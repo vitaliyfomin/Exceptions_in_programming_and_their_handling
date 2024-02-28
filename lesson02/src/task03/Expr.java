@@ -2,19 +2,15 @@ package task03;
 class Expr {
 
     public static double expr(int a, int b) {
+        double result = 0.0; // Initialize the result
         if (b != 0) {
-            double result = (double) a / b;
-            printSum(a, b);
-            return result;
-        } else {
-            return 0.0;
+            result = (double) a / b; // Perform the division and store the result
         }
+        printSum(a, b);
+        return result; // Return the result
     }
 
     public static void printSum(int a, int b) {
-        // Выводим сумму чисел только если делитель не равен нулю
-        if (b != 0) {
-            System.out.println(a + b);
-        }
+        System.out.println(a + b);
     }
 }
